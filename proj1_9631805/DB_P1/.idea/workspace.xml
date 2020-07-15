@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d6ac40-e0cb-462b-8f80-dff9fdc779e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cWwRtu0cXCcFhKO5HA08nuZSvr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="create table queries.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$USER_HOME$/Desktop/AUT/6th Semester/DB/Projects/Project 1/create table queries.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.create table queries.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592504985109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592504985109" />
+    <state x="383" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592838165311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1592838165311" />
+    <state x="484" y="61" key="#create_table_queries.sql" timestamp="1592165639949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="61" key="#create_table_queries.sql/0.0.1536.824@0.0.1536.824" timestamp="1592165639949" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592838524301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592838524301" />
+    <state width="1024" height="218" key="GridCell.Tab.0.bottom" timestamp="1592838049637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592838049637" />
+    <state width="1024" height="218" key="GridCell.Tab.0.center" timestamp="1592838049637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592838049637" />
+    <state width="1024" height="218" key="GridCell.Tab.0.left" timestamp="1592838049637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592838049637" />
+    <state width="1024" height="218" key="GridCell.Tab.0.right" timestamp="1592838049637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592838049637" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1592417556606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1592417556606" />
+    <state x="663" y="300" width="312" height="264" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1592520048510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="663" y="300" width="312" height="264" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1592520048510" />
+    <state x="499" y="217" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1592168110386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="217" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1536.824@0.0.1536.824" timestamp="1592168110385" />
+    <state x="668" y="354" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1592168121817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="354" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1536.824@0.0.1536.824" timestamp="1592168121817" />
+    <state x="535" y="237" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1592061971957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="237" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1536.824@0.0.1536.824" timestamp="1592061971957" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592838502947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592838502947" />
+  </component>
+</project>
